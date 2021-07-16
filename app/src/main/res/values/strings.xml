@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="etHint">Rahul</string>
+    <string name="plus">+</string>
+    <string name="toast">Next</string>
+    <string name="sub">-</string>
+    <string name="counter">0</string>
+</resources>
