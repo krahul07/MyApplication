@@ -11,4 +11,4 @@
 
 # The Download Image screen: 
 
-![Screenshot_1627055014](https://user-images.githubusercontent.com/54537053/126808712-c7aca0e7-cdf7-40c2-9b4f-d96dfdeb501a.png)
+![Screenshot_1627055964](https://user-images.githubusercontent.com/54537053/126809909-5ac0f073-a9b6-415f-acc9-7403d54d61d3.png)
