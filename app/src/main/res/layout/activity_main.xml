@@ -81,12 +81,12 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:layout_marginTop="120dp">
+            android:layout_marginTop="80dp">
 
             <ProgressBar
                 android:id="@+id/myProgressBar"
                 android:padding="20dp"
-                android:layout_marginBottom="85dp"
+                android:layout_marginBottom="50dp"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:max="10"
@@ -103,7 +103,20 @@
                 android:textSize="24sp"
                 android:background="@color/purple_700"
                 android:textColor="@color/white"
-                android:padding="25dp"/>
+                android:padding="20dp"/>
+
+            <Button
+                android:id="@+id/internet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:text="Internet"
+                android:onClick="useInternet"
+                android:layout_gravity="center_horizontal"
+                android:textSize="24sp"
+                android:background="@color/purple_200"
+                android:textColor="@color/black"
+                android:padding="10dp"/>
 
         </LinearLayout>
 

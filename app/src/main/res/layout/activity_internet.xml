@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/searchBox"
+        android:layout_marginTop="25dp"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter the URL"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:onClick="searchWeb"
+        android:text="Search"
+        android:textSize="28dp"
+        android:background="@color/teal_700"
+        android:textColor="@color/white"/>
+
+    <ScrollView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+
+        <TextView
+            android:id="@+id/webText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </ScrollView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_marginTop="90dp"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="Go to Download"
+        android:layout_gravity="center"
+        android:onClick="goToDownload"
+        android:background="@color/teal_700"
+        android:textColor="@color/white"
+        android:textSize="24dp"/>
+
+
+
+</LinearLayout>

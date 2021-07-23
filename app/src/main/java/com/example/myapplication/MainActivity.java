@@ -62,4 +62,9 @@ public class MainActivity extends AppCompatActivity{
         mat = new MyAsyncTask(MainActivity.this, pb, dwnld);
         mat.execute();
     }
+
+    public void useInternet(View view) {
+        Intent intent = new Intent(this, Internet.class);
+        startActivity(intent);
+    }
 }
