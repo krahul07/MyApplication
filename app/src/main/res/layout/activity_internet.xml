@@ -5,13 +5,24 @@
     android:background="@color/purple_200"
     android:orientation="vertical">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="Enter the link below"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"/>
+
     <EditText
         android:id="@+id/searchBox"
         android:layout_marginTop="25dp"
         android:textColorHint="@color/black"
+        android:background="@color/white"
         android:textColor="@color/black"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="80dp"
+        android:textAlignment="center"
         android:hint="Enter the URL"/>
 
 
