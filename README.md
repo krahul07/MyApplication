@@ -1,7 +1,10 @@
 # A new android project on its way !! 
 # Explore more
 
-# The Main Activity with the Download button clicked : 
+# The Login and Register page of the app
+![Screenshot_1627144036](https://user-images.githubusercontent.com/54537053/126874908-b5b9f978-ede5-4568-80e5-5821760dada0.png)
+
+# The First Activity after Login page: 
 
 ![Screenshot_1626964729](https://user-images.githubusercontent.com/54537053/126657992-6b635b86-47d3-49a6-8e88-62cbcfe43975.png)
 
