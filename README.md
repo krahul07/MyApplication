@@ -2,11 +2,11 @@
 # Explore more
 
 # The Login and Register page of the app
-![Screenshot_1627144036](https://user-images.githubusercontent.com/54537053/126874908-b5b9f978-ede5-4568-80e5-5821760dada0.png)
+![Screenshot_1627284686](https://user-images.githubusercontent.com/54537053/126950688-6fb54f7d-c367-4514-aea6-1d318544f866.png)
 
 # The First Activity after Login page: 
 
-![Screenshot_1626964729](https://user-images.githubusercontent.com/54537053/126657992-6b635b86-47d3-49a6-8e88-62cbcfe43975.png)
+![Screenshot_1627284694](https://user-images.githubusercontent.com/54537053/126950693-0701d5f9-eb29-4dcd-84cc-a2aa5f11459e.png)
 
 # On clicking Next it opens up a Custom List Activity: 
 
@@ -14,4 +14,4 @@
 
 # The Download Image screen: 
 
-![Screenshot_1627055964](https://user-images.githubusercontent.com/54537053/126809909-5ac0f073-a9b6-415f-acc9-7403d54d61d3.png)
+![Screenshot_1627284842](https://user-images.githubusercontent.com/54537053/126950699-0bfe9f6a-c735-4cc1-ae86-f60bb5a82570.png)
